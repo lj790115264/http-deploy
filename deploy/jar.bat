@@ -1,0 +1,1 @@
+java -Dloader.path="download/libs/" -jar %1 --spring.profiles.active=prod >> log.txt
